@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "149900662879",
+    "firebase_url": "https://chatts-12bff.firebaseio.com",
+    "project_id": "chatts-12bff",
+    "storage_bucket": "chatts-12bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149900662879:android:990d94aa56a6042a",
+        "android_client_info": {
+          "package_name": "com.chatss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149900662879-b7419s1qj52m6v3mi851vq8o18s9joit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatss",
+            "certificate_hash": "a43f93c2ac5ed2c22d8aa6ba7bee7191dfcf8ad8"
+          }
+        },
+        {
+          "client_id": "149900662879-21sjl74tvpikmhkb9ct3s1ehmfajei2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8RIuKaY8Inslnpfkt7J5wgKMgBBvwS6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149900662879-21sjl74tvpikmhkb9ct3s1ehmfajei2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
